@@ -1,0 +1,10 @@
+s1={"char(65),char(66),char(67)"}
+print(s1)
+print()
+print(type(s1))
+print()
+s2=("char(65)")
+print(s2)
+print()
+print(type(s2))
+print()

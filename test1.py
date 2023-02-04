@@ -1,0 +1,21 @@
+import time
+A=21000
+a=19000
+print("---cis----")
+print("value")
+print(A,a)
+print()
+print("id")
+print(id(A),id(a))
+print()
+print()
+print("--cs---")
+print()
+print('value')
+print(A,a)
+print()
+print("id")
+print()
+print(id(A),(a))
+time.sleep(2)
+print("end of an application")

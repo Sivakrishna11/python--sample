@@ -1,0 +1,15 @@
+x1=300
+print(x1)
+print()
+print("the value is:",x1)
+print()
+print("the adress is :",id(x1))
+print()
+print("the dta type:",type(x1))
+print()
+x2=3
+print(x2)
+print("the value is :",x2)
+print("the adress is:",id(x2))
+print("the data type:",type(x2))
+print()

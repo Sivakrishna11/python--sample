@@ -1,0 +1,12 @@
+s1={100,200,300,400,500}
+print("...befor mutable operation..")
+print(s1)
+print()
+print(type(s1))
+print()
+s2[0]=("100s")
+print("..after mutable operation")
+print(s2)
+print()
+print(type(s2))
+print()
